@@ -1,0 +1,5 @@
+Barcode,Product Label,Product Price,Quantity
+2001,2lt Milk,23.56,53
+2003,White Bread,10.42,120
+2004,Brown Bread,11.63,23
+305,laptop,230.0,20
